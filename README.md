@@ -1,6 +1,6 @@
-Project - Sentiment Analysis Chatbot
-
 # IMDb Reviews Sentiment Analysis Chatbot
+
+Project - Sentiment Analysis Chatbot
 
 ## **Overview:**
 
